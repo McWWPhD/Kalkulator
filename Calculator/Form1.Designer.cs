@@ -324,7 +324,6 @@
             this.lbl.ForeColor = System.Drawing.Color.White;
             this.lbl.Location = new System.Drawing.Point(229, 11);
             this.lbl.Name = "lbl";
-            this.lbl.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.lbl.Size = new System.Drawing.Size(0, 31);
             this.lbl.TabIndex = 25;
             this.lbl.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
